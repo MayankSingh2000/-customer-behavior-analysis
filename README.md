@@ -119,3 +119,24 @@ The Power BI dashboard provides dynamic visual insights into overall revenue per
 │   └── Customer_Shopping_Behavior_Analysis.pptx # Executive PPT presentation
 └── README.md                             # Project documentation
 ```
+## 👨‍💻 Author
+
+**Mayank Singh |
+Aspiring Data Analyst | SQL | Power BI | Excel | Python**
+
+Passionate about transforming raw data into meaningful insights through data cleaning, exploratory data analysis, visualization, and business reporting.
+
+Currently seeking entry-level Data Analyst opportunities where I can apply my analytical and technical skills to solve real-world business problems.
+
+GitHub: https://github.com/MayankSingh2000
+
+LinkedIn: www.linkedin.com/in/mayank-singh-aaa112135
+
+---
+
+⭐ If you find this project useful, feel free to explore the notebook and its analytical findings.
+
+**Thank you for visiting!**#   C u s t o m e r - B e h a v i o r - A n a l y s i s 
+
+ #   C u s t o m e r - B e h a v i o r - A n a l y s i s
+ #   C u s t o m e r - B e h a v i o r - A n a l y s i s
