@@ -72,9 +72,7 @@ Executed SQL queries in PostgreSQL to solve core business problems:
 
 ## 🖥️ Dashboard Preview
 The Power BI dashboard provides dynamic visual insights into overall revenue performance, customer segmentation, category performance, and subscription adoption.
-
-![Customer Behavior Dashboard](Customer_Behavior_Dashboard_Preview.png) *(Note: Replace with actual screenshot)*
-
+![image alt](https://github.com/MayankSingh2000/-customer-behavior-analysis/blob/main/customer_behavior_analysis_dashboard.png?raw=true)
 ---
 
 ## 💻 How to Run This Project
@@ -87,8 +85,7 @@ The Power BI dashboard provides dynamic visual insights into overall revenue per
 ### Setup Instructions
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/customer-shopping-behavior-analysis.git
-   cd customer-shopping-behavior-analysis
+  https://github.com/MayankSingh2000/-customer-behavior-analysis
    ```
 
 2. **Run Data Preparation (Python):**
