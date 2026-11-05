@@ -85,7 +85,8 @@ The Power BI dashboard provides dynamic visual insights into overall revenue per
 
 ### Setup Instructions
 1. **Clone the Repository:**
-   ```bash https://github.com/MayankSingh2000/-customer-behavior-analysis
+   ```bash
+  https://github.com/MayankSingh2000/-customer-behavior-analysis
    ```
 
 2. **Run Data Preparation (Python):**
