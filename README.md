@@ -134,9 +134,6 @@ LinkedIn: www.linkedin.com/in/mayank-singh-aaa112135
 
 ---
 
-⭐ If you find this project useful, feel free to explore the notebook and its analytical findings.
+⭐ If you find this project useful, feel free to explore the files, documents and its analytical findings.
 
-**Thank you for visiting!**#   C u s t o m e r - B e h a v i o r - A n a l y s i s 
-
- #   C u s t o m e r - B e h a v i o r - A n a l y s i s
- #   C u s t o m e r - B e h a v i o r - A n a l y s i s
+**Thank you for visiting!**
